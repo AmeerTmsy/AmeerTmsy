@@ -18,9 +18,9 @@ MERN Stack Developer passionate about building scalable web applications.
 
 📌 Featured Projects
 
-* Real-time One-to-One Chat System
-* Workforce Management Software (WFM)
-* Job Portal Platform
+* [LineGap](https://github.com/AmeerTmsy/LineGap) - A real-time one-to-one chat system
+* [Employee_Management](https://github.com/AmeerTmsy/Employee_Management) - A WFM software
+* [Job_Board_Platform-Frontend](https://github.com/AmeerTmsy/Job_Board_Platform-Frontend) - Job/Candidate finding platform
 
 Ꙫ Looking into
 
