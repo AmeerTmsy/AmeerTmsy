@@ -8,9 +8,7 @@ MERN Stack Developer passionate about building scalable web applications.
 * Node.js
 * Express
 * MongoDB
-* Socket.io
-* JWT Authentication
-  And more...
+  And counting...
 
 🧠 Currently learning
 
