@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi There, It's me, Ameer, 👋
 
-<!--
-**AmeerTmsy/AmeerTmsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MERN Stack Developer passionate about building scalable web applications.
 
-Here are some ideas to get you started:
+🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* React
+* Node.js
+* Express
+* MongoDB
+* Socket.io
+* JWT Authentication
+  And more...
+
+🧠 Currently learning
+
+* System design for scalable web apps
+
+📌 Featured Projects
+
+* Real-time One-to-One Chat System
+* Workforce Management Software (WFM)
+* Job Portal Platform
+
+Ꙫ Looking into
+
+* AI revolution
+* like-minded fellows with contradicting ideas 💢
+
+📫 Reach me at: [tmsyameer@gmail.com](mailto:tmsyameer@gmail.com)
