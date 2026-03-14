@@ -25,4 +25,4 @@ MERN Stack Developer passionate about building scalable web applications.
 * AI revolution
 * like-minded fellows with contradicting ideas 💢
 
-📫 Reach me at: [tmsyameer@gmail.com](mailto:tmsyameer@gmail.com)
+📫 Reach me at: [tmsyameer@gmail.com](mailto:tmsyameer@gmail.com) or [linkedin](https://www.linkedin.com/in/ameer-suhali-kk-2aa11723b/)
