@@ -25,7 +25,7 @@ MERN Stack Developer passionate about building scalable web applications.
 * AI revolution
 * like-minded fellows with contradicting ideas 💢
 
--> Portfolio (Wib code)  : [Ameer Suhial, MERN Stack Developer](https://github.com/AmeerTmsy/AmeerSuhail)
+-> Portfolio (Wib code)  : [Ameer Suhial, MERN Stack Developer](https://ameer-suhail.vercel.app/)
 
 -> Portfolio (hand-made) : [Ameer Suhial, MERN Stack Developer](https://ameertmsy.github.io/Portfolio001/)
   
