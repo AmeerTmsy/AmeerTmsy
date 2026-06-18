@@ -25,8 +25,7 @@ MERN Stack Developer passionate about building scalable web applications.
 * AI revolution
 * like-minded fellows with contradicting ideas 💢
 
-  
--> Portfolio : [Ameer Suhial, MERN Stack Developer](https://ameertmsy.github.io/Portfolio001/)
-
+-> Portfolio (Wib code)  : [Ameer Suhial, MERN Stack Developer](https://github.com/AmeerTmsy/AmeerSuhail)
+-> Portfolio (hand-made) : [Ameer Suhial, MERN Stack Developer](https://ameertmsy.github.io/Portfolio001/)
   
 📫 Reach me at: [tmsyameer@gmail.com](mailto:tmsyameer@gmail.com) or [linkedin](https://www.linkedin.com/in/ameer-suhali-kk-2aa11723b/)
